@@ -142,9 +142,7 @@
     <channel update="i" site="yes.co.il" site_id="TV64" xmltv_id="Touch">Touch</channel>
     <channel update="i" site="yes.co.il" site_id="PT05" xmltv_id="hustler">hustler</channel>
     <channel update="i" site="yes.co.il" site_id="TLD1" xmltv_id="mgm.jpg">mgm.jpg</channel>
-  </channels>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V1.56.28 -- Jan van Straaten" site="hot.net.il">
-  <channels>
+ 
     <channel update="i" site="hot.net.il" site_id="477" xmltv_id="HOT3">HOT3</channel>
     <channel update="i" site="hot.net.il" site_id="772" xmltv_id="HOT HBO">HOT HBO</channel>
     <channel update="i" site="hot.net.il" site_id="506" xmltv_id="Hot Zone">Hot Zone</channel>
@@ -322,4 +320,4 @@
   </channels>
 </site>
 
-</site>
+
