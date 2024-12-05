@@ -1,19 +1,13 @@
-# # BOT_TOKEN = '5880981869:AAGrRMEyP-Ty_KjwmjFOTh_qw5-VMiYvp2o'
 
-# # Replace these with your own values
-# api_id = 1909484
-# api_hash = 'cc35d89e519babd93edee46b5292ab10'
-# TOKEN = '5880981869:AAGrRMEyP-Ty_KjwmjFOTh_qw5-VMiYvp2o'
 # destination_channel_username = 'NETFLY'
 import os
 import telegram
-TOKEN = '5880981869:AAGrRMEyP-Ty_KjwmjFOTh_qw5-VMiYvp2o'
-#
+
 # Replace TOKEN with your bot's API token
 bot = telegram.Bot(token=TOKEN)
 
 # Replace CHAT_ID with the chat ID of the private channel where you want to forward the MKV files
-CHAT_ID = '-1001507128390'
+
 
 def search_for_mkv_files():
     # Get a list of chats that the bot is a member of
